@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Music Player Web App.**
 
-- 🌱 I’m currently learning **ReactJS & JavaScript.**
+- 🌱 I’m currently learning **Spring boot & JavaScript.**
 
-- 💬 Ask me about **Frontend Tech Stack.**
+- 💬 Ask me about **Java.**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **gauravupadhyay7001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

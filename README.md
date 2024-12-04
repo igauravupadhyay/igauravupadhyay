@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i'mgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="i'mgaurav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="imgaurav"/> </p>
 
 - 🌱 I’m currently learning **Spring boot & JavaScript.**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iamansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamansingh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gaurav-upadhyay-28b675222" target="blank"></a>
 <a href="https://instagram.com/maiamnhoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiamnhoon" height="30" width="40" /></a>
 </p>
 

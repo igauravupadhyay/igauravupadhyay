@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gaurav-upadhyay-28b675222" target="blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
+<a href="www.linkedin.com/in/gaurav-upadhyay-28b675222" target="blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
